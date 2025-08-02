@@ -1,0 +1,12 @@
+{
+  "name": "rss-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "rss-to-json": "^2.2.0"
+  }
+} 
